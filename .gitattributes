@@ -1,0 +1,4 @@
+*.tree filter=lfs diff=lfs merge=lfs -text
+*.onnx filter=lfs diff=lfs merge=lfs -text
+*.11 filter=lfs diff=lfs merge=lfs -text
+*.109 filter=lfs diff=lfs merge=lfs -text
